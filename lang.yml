@@ -63,6 +63,10 @@ TAG_SEASON_CATEGORY-ITEM-LORE:
 - ' §aНажмите§7, чтобы открыть.'
 - ''
 
+TAG_ALREADY_SELECTED: '§7Вы aуже §7установили данный префикс.'
+TAG_DENY: '§7Данный префикс Вам §cнедоступен§7.'
+TAG_SELECT: '§aНажмите§7, чтобы установить данный префикс.'
+
 TAG_GUI_LIST-ITEM-NAME: '§a§l» §eТитул: §7%s'
 TAG_GUI_LIST-ITEM-LORE:
 - ''
@@ -74,7 +78,3 @@ TAG_GUI_LIST-ITEM-LORE:
 - ''
 - ' §7%s'
 - ''
-
-TAG_ALREADY_SELECTED: '§7Вы aуже §7установили данный префикс.'
-TAG_DENY: '§7Данный префикс Вам §cнедоступен§7.'
-TAG_SELECT: '§aНажмите§7, чтобы установить данный префикс.'
