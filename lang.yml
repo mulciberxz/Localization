@@ -1,10 +1,13 @@
+#MAIN MESSAGES
+NO-PERMISSIONS: '§c§lОШИБКА §8| §7У Вас §cнет §7прав для использования данной команды.'
+
 #GUI-BUTTONS
 BACK: '§a§l» §eВернуться обратно.'
 CLOSE: '§a§l» §eЗакрыть меню.'
 NEXT_PAGE: '§a§l» §eСледующая страница.'
 BACK_PAGE: '§a§l» §eПредыдущая страница.'
 
-#TAG_GUI-MAIN
+#TAG_MANAGER-MAIN
 TAG_GUI-MAIN-TITLE: '§2§lМенеджер титулов'
 TAG_GUI-MAIN-NAME: '§a§l» §eВыбор доступных титулов'
 TAG_GUI-MAIN-LORE:
@@ -24,7 +27,6 @@ TAG_GUI-MAIN-SELECTED-ITEM-YES-LORE:
 - ' %s%s %s' #Group prefix - Tag prefix - Player name
 - ''
 
-TAG_REMOVED: '§6§lТИТУЛЫ §8| §7Вы §aуспешно §7удалили префикс.'
 TAG_GUI-MAIN-REMOVE-ITEM-NO-NAME: '§a§l» §eУ Вас §cне установлен §eтитул.'
 TAG_GUI-MAIN-REMOVE-ITEM-YES-NAME: '§a§l» §cУдалить §eтитул.'
 TAG_GUI-MAIN-REMOVE-ITEM-YES-LORE:
@@ -63,10 +65,11 @@ TAG_SEASON_CATEGORY-ITEM-LORE:
 - ' §aНажмите§7, чтобы открыть.'
 - ''
 
-TAG_ALREADY_SELECTED: '§7Вы aуже §7установили данный префикс.'
-TAG_DENY: '§7Данный префикс Вам §cнедоступен§7.'
-TAG_SELECT: '§aНажмите§7, чтобы установить данный префикс.'
+TAG_ALREADY_SELECTED: '§7Вы §aуже §7установили данный титул.'
+TAG_DENY: '§7Данный титул Вам §cнедоступен§7.'
+TAG_SELECT: '§aНажмите§7, чтобы установить данный титул.'
 
+TAG_SELECT_MENU-NAME: '§2§lВыбор титула'
 TAG_GUI_LIST-ITEM-NAME: '§a§l» §eТитул: §7%s'
 TAG_GUI_LIST-ITEM-LORE:
 - ''
@@ -77,4 +80,22 @@ TAG_GUI_LIST-ITEM-LORE:
 - ' §7%s'
 - ''
 - ' §7%s'
+- ''
+
+#TAG_MANAGER_USER-MESSAGES
+TAG_REMOVED: '§6§lТИТУЛЫ §8| §7Вы §aуспешно §7удалили титул.'
+TAG_SELECTED: '§6§lТИТУЛЫ §8| §7Вы §aустановили §7новый титул %s§7.'
+TAG_ADDED: '§aПоздравляем!' #TITLE
+TAG_ADDED_SUB: '§7Вы §aполучили §6титул §a%s' #SUBTITLE
+
+#TAG_MANAGER_ADMIN-MESSAGES
+TAG_SEND_HELPLIST:
+- ''
+- '§6§lТИТУЛЫ §8| §7Помощь в использовании:'
+- ''
+- '§c/tag set §7(Игрок) (Префикс) §f- §aУстановить &fпрефикс'
+- '§c/tag add §7(Игрок) (Префикс) §f- §aВыдать &7доступ к титулу.'
+- '§c/tag take §7(Игрок) (Префикс) §f- §aЗабрать &7титул.'
+- '§c/tag remove §7(Игрок) (Префикс) §f- §aУдалить &7титул.'
+- '§c/tag reload §f- §aПерезагрузить &7конфигурацию.'
 - ''
