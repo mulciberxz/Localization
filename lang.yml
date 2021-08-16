@@ -24,11 +24,41 @@ TAG_GUI-MAIN-SELECTED-ITEM-YES-LORE:
 - ' %s %s %s' #Group prefix - Tag prefix - Player name
 - ''
 
+TAG_REMOVED: '§6§lТИТУЛЫ §8| §7Вы §aуспешно §7удалили префикс.'
 TAG_GUI-MAIN-REMOVE-ITEM-NO-NAME: '§a§l» §eУ Вас §cне установлен §eтитул.'
 TAG_GUI-MAIN-REMOVE-ITEM-YES-NAME: '§a§l» §cУдалить §eтитул.'
 TAG_GUI-MAIN-REMOVE-ITEM-YES-LORE:
 - ''
-- '§aНажмите§7, чтобы §cудалить §7установленный титул.'
+- ' §aНажмите§7, чтобы §cудалить §7установленный титул.'
 - ''
 
-TAGS_SPECIAL_NAME: '§a§l» §eУникальные теги'
+TAG_GUI-CATEGORYLIST-TITLE: '§2§lКатегории'
+TAG_SPECIAL_CATEGORY-ITEM-NAME: '§a§l» §eУникальные'
+TAG_SPECIAL_CATEGORY-ITEM-LORE:
+- ''
+- ' §aНажмите§7, чтобы открыть.'
+- ''
+
+TAG_BASE_CATEGORY-ITEM-NAME: '§a§l» §eКлассические'
+TAG_BASE_CATEGORY-ITEM-LORE:
+- ''
+- ' §aНажмите§7, чтобы открыть.'
+- ''
+
+TAG_ANIME_CATEGORY-ITEM-NAME: '§a§l» §eАниме'
+TAG_ANIME_CATEGORY-ITEM-LORE:
+- ''
+- ' §aНажмите§7, чтобы открыть.'
+- ''
+
+TAG_SMILES_CATEGORY-ITEM-NAME: '§a§l» §eСимволы и смайлы'
+TAG_SMILES_CATEGORY-ITEM-LORE:
+- ''
+- ' §aНажмите§7, чтобы открыть.'
+- ''
+
+TAG_SEASON_CATEGORY-ITEM-NAME: '§a§l» §eСезонные'
+TAG_SEASON_CATEGORY-ITEM-LORE:
+- ''
+- ' §aНажмите§7, чтобы открыть.'
+- ''
