@@ -1,6 +1,6 @@
 #TAG_GUI-MAIN
-TAG_GUI-NAME: '&2&lМенеджер префиксов'
-TAG_GUI-MAIN-NAME: '&a&l» &eВыбрать доступные префиксы'
+TAG_GUI-NAME: '§2§lМенеджер префиксов'
+TAG_GUI-MAIN-NAME: '§a§l» &eВыбрать доступные префиксы'
 TAG_GUI-MAIN-LORE:
 - ''
 - ' §7Титулы - §bслова §7которые ставятся §bпосле вашего ника'
@@ -9,4 +9,4 @@ TAG_GUI-MAIN-LORE:
 - ''
 - '§a▸ §a§lНажмите§7, чтобы окрыть меню титулов'
 
-TAGS_SPECIAL_NAME: '&a&l» &eУникальные теги'
+TAGS_SPECIAL_NAME: '§a§l» §eУникальные теги'
