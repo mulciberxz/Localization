@@ -1,12 +1,28 @@
+#GUI-BUTTONS
+BACK: '§a§l» §eВернуться обратно.'
+CLOSE: '§a§l» §eЗакрыть меню.'
+NEXT_PAGE: '§a§l» §eСледующая страница.'
+BACK_PAGE: '§a§l» §eПредыдущая страница.'
+
 #TAG_GUI-MAIN
-TAG_GUI-NAME: '§2§lМенеджер префиксов'
-TAG_GUI-MAIN-NAME: '§a§l» §eВыбрать доступные префиксы'
+TAG_GUI-MAIN-TITLE: '§2§lМенеджер титулов'
+TAG_GUI-MAIN-NAME: '§a§l» §eВыбрать доступные титулов'
 TAG_GUI-MAIN-LORE:
 - ''
 - ' §7Титулы - §bслова §7которые ставятся §bпосле вашего ника'
 - ' §7В данном меню вы сможете посмотреть'
 - ' §7информацию о всех титулах и их получении'
 - ''
-- '§a▸ §a§lНажмите§7, чтобы окрыть меню титулов'
+- ' §aНажмите§7, чтобы открыть меню титулов.'
+- ''
+
+TAG_GUI-MAIN-SELECTED-ITEM-NO-NAME: '§a§l» §eУ Вас §cне установлен §eтитул.'
+TAG_GUI-MAIN-SELECTED-ITEM-YES-NAME: '§a§l» §eВаш текущий титул:'
+TAG_GUI-MAIN-SELECTED-ITEM-YES-LORE:
+- ''
+- ' §7Ваш §nтекущий§7 титул: %s'
+- ' §7Предварительный просмотр:'
+- ' %s %s %s' #Group prefix - Tag prefix - Player name
+- ''
 
 TAGS_SPECIAL_NAME: '§a§l» §eУникальные теги'
