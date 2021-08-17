@@ -1,0 +1,25 @@
+#DONATE_MANAGER-GROUP DESCPRIPTION
+SURVIVAL: '§7§l» §eВозможности на §9§lSurvival'
+PRISON: '§7§l» §eВозможности на §7§lPrison'
+SKYBLOCK: '§7§l» §eВозможности на §f§lSkyBlock'
+OTHER: '§7§l» §eВозможности по всему серверу'
+
+#VIP
+VIP-NAME: '§7§l» §eПривилегия §e§lVIP'
+VIP-SURVIVAL:
+- ''
+- ' §e/fly §8- §7Включить/выключить режим полёта'
+- ' §e/dchat §8- §7Доступ к общему донат-чату'
+- ' §e/kit vip §8- §7Получить спец. набор'
+- '§r'
+VIP-PRISON:
+- '§r'
+VIP-SKYBLOCK:
+- '§r'
+VIP-OTHER:
+- ''
+- ' §7Доступ к §6титулу §eМеценат'
+- ' §7Оповещение о вашем входе.'
+- ' §7Префикс в табе §8☾§eVIP§8☽ §7%s'
+- ' §7Префикс над головой §eⓋ §7%s'
+- '§r'
