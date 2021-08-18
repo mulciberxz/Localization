@@ -4,13 +4,23 @@ PRISON: '§7§l» §eВозможности на §7§lPrison'
 SKYBLOCK: '§7§l» §eВозможности на §f§lSkyBlock'
 OTHER: '§7§l» §eВозможности по всему серверу'
 
-#VIP
-VIP-NAME: '§7§l» §eПривилегия §e§lVIP'
+VIP: '§7§l» §eПривилегия §e§lVIP'
+S-VIP: '§7§l» §eПривилегия §3§lS-VIP'
+PREM: '§7§l» §eПривилегия §a§lPremium'
+GRAND: '§7§l» §eПривилегия §c§lGrand'
+LORD: '§7§l» §eПривилегия §9§lLord'
+ULTRA: '§7§l» §eПривилегия §6§lUltra'
+DELUXE: '§7§l» §eПривилегия §b§lDeluxe'
+TITAN: '§7§l» §eПривилегия §c§lTitan'
+ELITE: '§7§l» §eПривилегия §e§lElite'
+LEGEND: '§7§l» §eПривилегия §4§lLegend'
+
+
+
+
+
+
 VIP-SURVIVAL:
-- ''
-- ' §e/fly §8- §7Включить/выключить режим полёта'
-- ' §e/dchat §8- §7Доступ к общему донат-чату'
-- ' §e/kit vip §8- §7Получить спец. набор'
 - '§r'
 VIP-PRISON:
 - '§r'
