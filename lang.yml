@@ -13,6 +13,30 @@ DONATE_SEND_LINKS:
 - '  §7[§3§nПОМЕНЯТЬ В БУДУЩЕМ§7] - §aНажми §7по ссылке в чате.'
 - '§c'
 
+DONATE_ALREADY_TAG: '§6§lДОНАТ §8| §7У Вас уже §aприобретён §7данный титул.'
+DONATE_ALREADY_GROUP: '§6§lДОНАТ §8| §7У Вас уже §aприобретена §7данная привилегия.'
+
+DONATE_ERROR_GOOD_NOTFOUND: '§6§lДОНАТ §8| §7Произошла §cошибка §7при покупке. Ваши боины не были сняты.'
+DONATE_ERROR_NOTAMOUNT: '§6§lДОНАТ §8| §7У Вас §cне достуточно §7боинов для покупки.'
+
+DONATE_GROUP: 'привилегию'
+DONATE_TAG: 'титул'
+DONATE_OTHER: 'товар'
+
+DONATE_BROADCAST:
+- '§8■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■'
+- ''
+- '             §b§lВНИМАНИЕ!'
+- ''
+- '   §a%s §7приобрёл §6%s §7%s'
+- '   §7Покупайте донат-товары, используя команду §a/donate§7.'
+- ''
+- '§8■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■'
+
+DONATE_SECCESS: 
+- '§6§lДОНАТ §8| §7Покупка была §aзавершена§7. Наслаждайтесь.'
+- '§6§lДОНАТ §8| §7Баланс: §a%s боинов'
+
 ########TAGS-USER########
 TAG_REMOVED: '§6§lТИТУЛЫ §8| §7Вы §aуспешно §7удалили титул.'
 TAG_SELECTED: '§6§lТИТУЛЫ §8| §7Вы §aустановили §7новый титул %s§7.'
@@ -85,7 +109,7 @@ DONATE_GUI-MAIN-TITLE: '§2§lДонат-магазин'
 DONATE_GUI-DESCRIPTION-TITLE: '§2§lОписание'
 DONATE_GUI-DONATEGUI-TITLE: '§2§lПривилегии'
 DONATE_GUI-CASEGUI-TITLE: '§2§lКейс'
-DONATE_GUI-TAGGUI-TITLE: '§2§lТитулы'
+DONATE_GUI-TAGGUI-TITLE: '§2§lКатегории титулов'
 DONATE_GUI-CONFIRM-TITLE: '§2§lПодтверждение покупки'
 TAG_GUI-MAIN-TITLE: '§2§lМенеджер титулов'
 TAG_SELECT_MENU-NAME: '§2§lВыбор титула'
