@@ -116,43 +116,12 @@ TAG_SELECT_MENU-NAME: '§2§lВыбор титула'
 TAG_GUI-CATEGORYLIST-TITLE: '§2§lКатегории'
 
 ########DONATE########
-DONATE-GUI-DONATE-DESCRIPTION-ALREADY:
-- ''
-- '§7У Вас уже §aприобретён §7данный товар.'
 
 DONATE_GUI-DONATE-ITEM-NAME: '§a§l» §eПривилегии'
 DONATE_GUI-DONATE-ITEM-LORE:
 - ''
 - ' §aНажмите§7, чтобы открыть меню привилегий.'
 - '§c'
-
-DONATE_GUI-DONATEGUI-DESCRIPTION-LORE:
-- ''
-- ' §7Нажмите по иконке §6левой кнопкой мыши§7,'
-- ' §7чтобы подробнее узнать о данной привилегии.'
-- ''
-- ' §7Нажмите по иконке §6правой кнопкой мыши§7,'
-- ' §7чтобы &aкупить §7данную привилегию.'
-- ''
-- ' §7Ваш баланс: §a%s боинов'
-
-DONATE_GUI-DONATEGUI-DESCRIPTION-LORE-NOTSALE:
-- ' §7Цена покупки: %s боинов'
-
-DONATE_GUI-DONATEGUI-DESCRIPTION-LORE-NOTSALE-DOPL:
-- ' §7Цена покупки: §c§m%s§a %s боинов §7(§eДоплата§7)'
-
-DONATE_GUI-DONATEGUI-DESCRIPTION-LORE-SALE:
-- ' §7Цена покупки: §c§m%s§a %s боинов'
-- ''
-- ' §7На данный товар действует скидка в §6%s%'
-- ' §7Она закончится §a%s §7(Время московское)'
-
-DONATE_GUI-DONATEGUI-DESCRIPTION-LORE-SALE-DOPL:
-- ' §7Цена покупки: §c§m%s§a %s боинов §7(§eСкидка + доплата§7)'
-- ''
-- ' §7На данный товар действует скидка в §6%s%'
-- ' §7Она закончится §a%s §7(Время московское)'
 
 DONATE_GUI-CASE-ITEM-NAME: '§a§l» §eКейс'
 DONATE_GUI-CASE-ITEM-LORE:
@@ -189,38 +158,6 @@ DONATE_GUI-TAG-ITEM-LORE:
 - ''
 - ' §aНажмите§7, чтобы открыть меню титулов.'
 - '§c'
-
-DONATE_GUI-TAGGUI-DESCRIPTION-LORE:
-- ''
-- ' §7Нажмите по иконке §6левой кнопкой мыши§7,'
-- ' §7чтобы §aкупить §7данный титул.'
-- ''
-- ' §7Предварительный просмотр:'
-- ' %s%s %s' #Group prefix - Tag prefix - Player name
-- ''
-- ' §7Ваш баланс: §a%s боинов'
-
-DONATE_GUI-TAGGUI-DESCRIPTION-LORE-NOTSALE:
-- ' §7Цена покупки: §a%s боинов'
-
-DONATE_GUI-TAGGUI-DESCRIPTION-LORE-SALE:
-- ' §7Цена покупки: §c§m%s§a %s боинов'
-- ''
-- ' §7На данный товар действует скидка в §6%s%'
-- ' §7Она закончится §a%s §7(Время московское)'
-
-DONATE_GUI-OTHER-DESCRIPTION-LORE:
-- ''
-- ' §7Ваш баланс: §a%s боинов'
-
-DONATE_GUI-OTHER-DESCRIPTION-LORE-SALE:
-- ' §7Цена покупки: §c§m%s§a %s боинов'
-- ''
-- ' §7На данный товар действует скидка в §6%s%'
-- ' §7Она закончится §a%s §7(Время московское)'
-
-DONATE_GUI-OTHER-DESCRIPTION-LORE-NOTSALE:
-- ' §7Цена покупки: §a%s боинов'
 
 DONATE_GUI-HELP-ITEM-NAME: '§a§l» §eОплата'
 DONATE_GUI-HELP-ITEM-LORE:
