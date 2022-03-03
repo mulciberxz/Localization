@@ -117,21 +117,21 @@ TAG_SEND_HELPLIST:
 - ''
 - '§6§lТИТУЛЫ §8| §7Помощь в использовании:'
 - ''
-- '§c/tag setprefix §7(Игрок) (Префикс) §f- §aУстановить §aпрефикс'
 - '§c/tag add §7(Игрок) (Префикс) §f- §aВыдать §7доступ к титулу.'
 - '§c/tag take §7(Игрок) (Префикс) §f- §aЗабрать §7титул.'
 - '§c/tag remove §7(Игрок) (Префикс) §f- §aУдалить §7титул.'
 - '§c/tag reload §f- §aПерезагрузить §7конфигурацию.'
 - ''
 - '§c/tag customprefix §7(Игрок) (Префикс) §f- §aУстановить §aсобственный префикс'
+- '§c/tag customsuffix §7(Игрок) (Титул) §f- §aУстановить §aсобственный титул'
 - '§c'
 
-TAG_SETPREFIX_USAGE:
+TAG_SETCUSTOM_SUFFIX_USAGE:
 - ''
 - '§6§lТИТУЛЫ §8| §7Мало аргументов.'
 - '§6§lТИТУЛЫ §8| §7Используйте: §c/tag setprefix §7(Игрок) (Префикс)'
 - '§c'
-TAG_SETPREFIX_USE: '§6§lТИТУЛЫ §8| §7Вы §aустановили §7новый титул игроку §a%s§7: §c%s'
+TAG_SETCUSTOM_SUFFIX_USE: '§6§lТИТУЛЫ §8| §7Вы §aустановили §7новый титул: §c%s'
 
 TAG_SETCUSTOM_PREFIX_USAGE:
 - ''
@@ -146,7 +146,8 @@ TAG_REMOVE_USAGE:
 - '§6§lТИТУЛЫ §8| §7Используйте: §c/tag remove §7(Игрок)'
 - '§c'
 TAG_REMOVE_USE: '§6§lТИТУЛЫ §8| §7Вы §cудалили §7титул игроку §a%s§7.'
-TAG_REMOVECUSTOM_PREFIX_USE: '§6§lТИТУЛЫ §8| §7Вы §cудалили §7префикс игроку.'
+TAG_REMOVECUSTOM_PREFIX_USE: '§6§lТИТУЛЫ §8| §7Вы §cудалили §7префикс.'
+TAG_REMOVECUSTOM_SUFFIX_USE: '§6§lТИТУЛЫ §8| §7Вы §cудалили §7титул.'
 
 TAG_ADD_USAGE:
 - ''
