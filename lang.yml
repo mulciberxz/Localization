@@ -145,6 +145,7 @@ TAG_REMOVE_USAGE:
 - '§6§lТИТУЛЫ §8| §7Используйте: §c/tag remove §7(Игрок)'
 - '§c'
 TAG_REMOVE_USE: '§6§lТИТУЛЫ §8| §7Вы §cудалили §7титул игроку §a%s§7.'
+TAG_REMOVECUSTOM_USE: '§6§lТИТУЛЫ §8| §7Вы §cудалили §7префикс игроку §a%s§7.'
 
 TAG_ADD_USAGE:
 - ''
