@@ -129,7 +129,7 @@ TAG_SEND_HELPLIST:
 TAG_SETCUSTOM_SUFFIX_USAGE:
 - ''
 - '§6§lТИТУЛЫ §8| §7Мало аргументов.'
-- '§6§lТИТУЛЫ §8| §7Используйте: §c/tag setprefix §7(Игрок) (Префикс)'
+- '§6§lТИТУЛЫ §8| §7Используйте: §c/tag customsuffix §7(Игрок) (Титул)'
 - '§c'
 TAG_SETCUSTOM_SUFFIX_USE: '§6§lТИТУЛЫ §8| §7Вы §aустановили §7новый титул: §c%s'
 
