@@ -133,7 +133,7 @@ TAG_SETPREFIX_USAGE:
 - '§c'
 TAG_SETPREFIX_USE: '§6§lТИТУЛЫ §8| §7Вы §aустановили §7новый титул игроку §a%s§7: §c%s'
 
-TAG_SETCUSTOM_USAGE:
+TAG_SETCUSTOM_PREFIX_USAGE:
 - ''
 - '§6§lТИТУЛЫ §8| §7Мало аргументов.'
 - '§6§lТИТУЛЫ §8| §7Используйте: §c/tag setcustom §7(Игрок) (Префикс)'
