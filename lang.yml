@@ -138,7 +138,7 @@ TAG_SETCUSTOM_USAGE:
 - '§6§lТИТУЛЫ §8| §7Мало аргументов.'
 - '§6§lТИТУЛЫ §8| §7Используйте: §c/tag setcustom §7(Игрок) (Префикс)'
 - '§c'
-TAG_SETCUSTOM_USE: '§6§lТИТУЛЫ §8| §7Вы §aустановили §7новый префикс: §c%s'
+TAG_SETCUSTOM_PREFIX_USE: '§6§lТИТУЛЫ §8| §7Вы §aустановили §7новый префикс: §c%s'
 
 TAG_REMOVE_USAGE:
 - ''
