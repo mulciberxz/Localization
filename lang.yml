@@ -23,6 +23,12 @@ DONATE_GROUP: 'привилегию'
 DONATE_TAG: 'титул'
 DONATE_OTHER: 'товар'
 
+ANIME: 'Аниме'
+BASE: 'Классические'
+SPECIAL: 'Уникальные'
+SMILES: 'Символы и смайлы'
+SEASONL: 'Сезонные'
+
 DONATE_BROADCAST:
 - '§8■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■'
 - ''
