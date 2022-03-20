@@ -179,14 +179,9 @@ DONATE_GUI-CASEGUI-TITLE: '§2§lКейс'
 DONATE_GUI-TAGGUI-TITLE: '§2§lКатегории титулов'
 DONATE_GUI-CONFIRM-TITLE: '§2§lПодтверждение покупки'
 
+TAG_SELECT_MENU-NAME: '§2§lВыбор титула'
 TAG_GUI-MAIN-TITLE: '§2§lМенеджер титулов'
 TAG_GUI-CATEGORYLIST-TITLE: '§2§lКатегории'
-
-TAG_SELECT_MENU-NAME_ANIME: '§2§lВыбор титула §a§l» §2§lАниме'
-TAG_SELECT_MENU-NAME_BASE: '§2§lВыбор титула §a§l» §2§lКлассические'
-TAG_SELECT_MENU-NAME_SPECIAL: '§2§lВыбор титула §a§l» §2§lУникальные'
-TAG_SELECT_MENU-NAME_SMILES: '§2§lВыбор титула §a§l» §2§lСимволы и смайлы'
-TAG_SELECT_MENU-NAME_SEASON: '§2§lВыбор титула §a§l» §2§lСезонные'
 
 ########DONATE########
 DONATE-GUI-DONATE-DESCRIPTION-ALREADY:
