@@ -17,11 +17,11 @@ DONATE_ALREADY_TAG: '§6§lДОНАТ §8| §7У Вас уже §aприобре
 DONATE_ALREADY_GROUP: '§6§lДОНАТ §8| §7У Вас уже §aприобретена §7данная привилегия.'
 
 DONATE_ERROR_GOOD_NOTFOUND: '§6§lДОНАТ §8| §7Произошла §cошибка §7при покупке. Ваши боины не были сняты.'
-DONATE_ERROR_NOTAMOUNT: '§6§lДОНАТ §8| §7У Вас §cне достуточно §7боинов для покупки.'
+DONATE_ERROR_NOTAMOUNT: '§6§lДОНАТ §8| §7У Вас §cне достаточно §7боинов для покупки.'
 
-DONATE_GROUP: 'привилегию'
-DONATE_TAG: 'титул'
-DONATE_OTHER: 'товар'
+DONATE_GROUP: '§nпривилегию'
+DONATE_TAG: '§nтитул'
+DONATE_OTHER: '§nтовар'
 
 DONATE_BROADCAST:
 - '§8■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■'
