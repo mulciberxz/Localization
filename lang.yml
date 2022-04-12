@@ -163,6 +163,8 @@ TAG_TAKE_USAGE:
 - '§c'
 TAG_TAKE_USE: '§6§lТИТУЛЫ §8| §7Вы §aзабрали §7титул §c%s §7у игрока §a%s§7.'
 
+########COLORS-USER########
+
 ###################################GUI-MANAGER###################################
 
 ########GUI-BUTTONS########
@@ -403,7 +405,10 @@ LIGHT_PURPLE: '§a§l» §dФиолетовый'
 YELLOW: '§a§l» §eЖелтый'
 WHITE: '§a§l» §fБелый'
 
+RAINBOW: '§a§l» §f&lРадужный'
+
 ########COLOR_GUI########
+CHAT_FORMAT: '§a§l» §eФорматирование'
 CHATCOLOR_ITEM-NAME: '§a§l» §eВыбор цвета сообщения'
 CHATCOLOR_ITEM-LORE:
 - ' §aНажмите§7, чтобы открыть.'
