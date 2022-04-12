@@ -183,6 +183,8 @@ TAG_SELECT_MENU-NAME: '§2§lВыбор титула'
 TAG_GUI-MAIN-TITLE: '§2§lМенеджер титулов'
 TAG_GUI-CATEGORYLIST-TITLE: '§2§lКатегории'
 
+COLOR_GUI-MAIN-TITLE: '§2§lМенеджер цветов'
+
 ########DONATE########
 DONATE-GUI-DONATE-DESCRIPTION-ALREADY:
 - ''
@@ -381,3 +383,29 @@ TAG_GUI_LIST-ITEM-LORE:
 TAG_ALREADY_SELECTED: '§7Вы §aуже §7установили данный титул.'
 TAG_DENY: '§7Данный титул Вам §cнедоступен§7.'
 TAG_SELECT: '§aНажмите§7, чтобы установить данный титул.'
+
+########COLORS########
+DARK_BLUE: '§a§l» §1Тёмно-синий'
+DARK_GREEN: '§a§l» §2Тёмно-зелёный'
+DARK_AQUA: '§a§l» §3Бирюзовый'
+DARK_RED: '§a§l» §4Тёмно-красный'
+DARK_PURPLE: '§a§l» §5Тёмно-фиолетовый'
+GOLD: '§a§l» §6Золотой'
+GRAY: '§a§l» §7Серый'
+DARK_GRAY: '§a§l» §8Тёмно-серый'
+BLUE: '§a§l» §9Синий'
+DARK: '§a§l» §0Чёрный'
+
+GREEN: '§a§l» §aЗеленый'
+AQUA: '§a§l» §bСине-зеленый'
+RED: '§a§l» §cКрасный'
+LIGHT_PURPLE: '§a§l» §dФиолетовый'
+YELLOW: '§a§l» §eЖелтый'
+WHITE: '§a§l» §fБелый'
+
+########COLOR_GUI########
+CHATCOLOR_ITEM-NAME: '§a§l» §eВыбор цвета сообщения'
+CHATCOLOR_ITEM-LORE:
+- ' §aНажмите§7, чтобы открыть.'
+
+
