@@ -17,7 +17,7 @@ DONATE_ALREADY_TAG: '§6§lДОНАТ §8| §7У Вас уже §aприобре
 DONATE_ALREADY_GROUP: '§6§lДОНАТ §8| §7У Вас уже §aприобретена §7данная привилегия.'
 
 DONATE_ERROR_GOOD_NOTFOUND: '§6§lДОНАТ §8| §7Произошла §cошибка §7при покупке. Ваши боины не были сняты.'
-DONATE_ERROR_NOTAMOUNT: '§6§lДОНАТ §8| §7У Вас §cне достаточно §7боинов для покупки.'
+DONATE_ERROR_NOTAMOUNT: '§6§lДОНАТ §8| §7У Вас §cнедостаточно §7боинов для покупки.'
 
 DONATE_GROUP: '§nпривилегию'
 DONATE_TAG: '§nтитул'
@@ -330,11 +330,15 @@ TAG_GUI-MAIN-REMOVE-ITEM-YES-LORE:
 TAG_SPECIAL_CATEGORY-ITEM-NAME: '§a§l» §eУникальные'
 TAG_SPECIAL_CATEGORY-ITEM-LORE:
 - ''
+- ' §7Разблокировано: §c§l%s§8/§a§l%s'
+- ''
 - ' §aНажмите§7, чтобы открыть.'
 - '§c'
 
 TAG_BASE_CATEGORY-ITEM-NAME: '§a§l» §eКлассические'
 TAG_BASE_CATEGORY-ITEM-LORE:
+- ''
+- ' §7Разблокировано: §c§l%s§8/§a§l%s'
 - ''
 - ' §aНажмите§7, чтобы открыть.'
 - '§c'
@@ -342,17 +346,23 @@ TAG_BASE_CATEGORY-ITEM-LORE:
 TAG_ANIME_CATEGORY-ITEM-NAME: '§a§l» §eАниме'
 TAG_ANIME_CATEGORY-ITEM-LORE:
 - ''
+- ' §7Разблокировано: §c§l%s§8/§a§l%s'
+- ''
 - ' §aНажмите§7, чтобы открыть.'
 - '§c'
 
 TAG_SMILES_CATEGORY-ITEM-NAME: '§a§l» §eСимволы и смайлы'
 TAG_SMILES_CATEGORY-ITEM-LORE:
 - ''
+- ' §7Разблокировано: §c§l%s§8/§a§l%s'
+- ''
 - ' §aНажмите§7, чтобы открыть.'
 - '§c'
 
 TAG_SEASON_CATEGORY-ITEM-NAME: '§a§l» §eСезонные'
 TAG_SEASON_CATEGORY-ITEM-LORE:
+- ''
+- ' §7Разблокировано: §c§l%s§8/§a§l%s'
 - ''
 - ' §aНажмите§7, чтобы открыть.'
 - '§c'
