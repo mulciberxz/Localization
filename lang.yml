@@ -317,7 +317,7 @@ TAG_GUI-MAIN-SELECTED-ITEM-YES-NAME: '§a§l» §eВаш §aтекущий§e т
 TAG_GUI-MAIN-SELECTED-ITEM-YES-LORE:
 - ''
 - ' §7Предварительный просмотр:'
-- ' {group}{prefix} {player}' #Group prefix - Tag prefix - Player name
+- ' %s%s %s' #Group prefix - Tag prefix - Player name
 - '§c'
 
 TAG_GUI-MAIN-REMOVE-ITEM-NO-NAME: '§a§l» §eУ Вас §cне установлен §eтитул.'
