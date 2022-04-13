@@ -407,12 +407,14 @@ LIGHT_PURPLE: '§a§l» §dФиолетовый'
 YELLOW: '§a§l» §eЖелтый'
 WHITE: '§a§l» §fБелый'
 
-RAINBOW: '§a§l» §f&lРадужный'
-
 ########COLOR_GUI########
-CHAT_FORMAT: '§a§l» §eФорматирование'
 CHATCOLOR_ITEM-NAME: '§a§l» §eВыбор цвета сообщения'
 CHATCOLOR_ITEM-LORE:
 - ' §aНажмите§7, чтобы открыть.'
+
+NAMECOLOR_ITEM-NAME: '§a§l» §eВыбор цвета ника'
+NAMECOLOR_ITEM-LORE:
+- ' §aНажмите§7, чтобы открыть.'
+
 
 
