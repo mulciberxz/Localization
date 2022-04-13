@@ -408,21 +408,28 @@ YELLOW: '§a§l» §eЖелтый'
 WHITE: '§a§l» §fБелый'
 
 ########COLOR_GUI########
+COLOR_MENU_ITEM_ALREADY: '§7Вы §aуже §7установили данный цвет.'
+COLOR_MENU_ITEM_SET: '§aНажмите§7, чтобы установить данный цвет.'
+COLOR_MENU_ITEM_DENY: '§7Данный цвет Вам §cнедоступен§7.'
+
+
 CHATCOLOR_ITEM-NAME: '§a§l» §eВыбор цвета сообщения'
 CHATCOLOR_ITEM-LORE:
 - ' §aНажмите§7, чтобы открыть.'
 
-CHATCOLOR_MENU_ITEM_ALREADY: '§7Вы §aуже §7установили данный цвет.'
-CHATCOLOR_MENU_ITEM_SET: '§aНажмите§7, чтобы установить данный цвет.'
-CHATCOLOR_MENU_ITEM_DENY: '§7Данный цвет Вам §cнедоступен§7.'
-
 CHATCOLOR_MENU-ITEM_LORE:
 - ''
 - ' %s'
+- '§c'
 
 NAMECOLOR_ITEM-NAME: '§a§l» §eВыбор цвета ника'
 NAMECOLOR_ITEM-LORE:
 - ' §aНажмите§7, чтобы открыть.'
+
+NAMECOLOR_MENU-ITEM_LORE:
+- ''
+- ' %s'
+- '§c'
 
 
 
