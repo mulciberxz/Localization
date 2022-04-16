@@ -260,6 +260,7 @@ TAG_GUI-CATEGORYLIST-TITLE: '§2§lКатегории'
 
 COLOR_GUI-MAIN-TITLE: '§2§lМенеджер цветов'
 
+PROFILES_GUI-MAIN-TITLE: '§2§lПрофиль игрока §7§l%s'
 ########DONATE########
 DONATE-GUI-DONATE-DESCRIPTION-ALREADY:
 - ''
@@ -520,8 +521,28 @@ PROFILE_GUI-MAIN_INFO_LORE:
 - ' §7Город: §a%s'
 - ''
 - ' §7Статус: §a%s'
-- ' §7Наиграно: §a%s часов'
+- ' §7Наиграно: §a%s ч.'
 - ' §7Первый вход: §a%s'
 - ' §c'
+
+PROFILE_GUI-SOCIAL_INFO_NAME: '§a§l» §eСоц. сети'
+PROFILE_GUI-SOCIAL_INFO_LORE:
+- ''
+- ' §7ВКонтакте: §a%s'
+- ' §7Discord: §a%s'
+- ' §7Telegram: §a%s'
+- ' §c'
+
+PROFILE_GUI-OTHER_INFO_NAME: '§a§l» §eПрочая информация'
+PROFILE_GUI-OTHER_INFO_LORE:
+- ''
+- ' §7%s'
+- ' §7%s'
+- ' §7%s'
+- ' §7%s'
+- ' %s'
+- ' §c'
+PROFILE_GUI-OTHER_INFO: '§8§oЦветовые коды поддерживаются'
+PROFILE_GUI-HELP_NAME: '§a§l» §eПомощь'
 
 
