@@ -507,5 +507,21 @@ NAMECOLOR_MENU-ITEM_LORE:
 - ' %s'
 - '§c'
 
+########PROFILE_GUI########
+PROFILE_STATUS_ONLINE: '§aВ сети'
+PROFILE_STATUS_OFFLINE: '§cОффлайн §8(%s)'
+
+
+PROFILE_GUI-MAIN_INFO_NAME: '§a§l» §eОсновная информация'
+PROFILE_GUI-MAIN_INFO_LORE:
+- ''
+- ' §7Ник: §a%s'
+- ' §7Возраст: §a%s лет'
+- ' §7Город: §a%s'
+- ''
+- ' §7Статус: §a%s'
+- ' §7Наиграно: §a%s часов'
+- ' §7Первый вход: §a%s'
+- ' §c'
 
 
