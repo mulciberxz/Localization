@@ -206,6 +206,7 @@ COLOR_REMOVE_USE: '§6§lЦВЕТ §8| §7Вы §aудалили §7цвет н�
 ########PROFILE-USER########
 PROFILE_ERROR_USER-NOTFOUND: '§6§lПРОФИЛЬ §8| §7Игрок §cне найден §7в базе данных.'
 PROFILE_ERROR_NUMBERFORMAT: '§6§lПРОФИЛЬ §8| §7Значение должно быть §cчислом§7.'
+PROFILE_ERROR_USER-OFFLINE: '§6§lПРОФИЛЬ §8| §7Игрок &cне в сети&7.'
 
 PROFILE_SEND_HELPLIST:
 - ''
@@ -295,7 +296,7 @@ TAG_GUI-CATEGORYLIST-TITLE: '§2§lКатегории'
 
 COLOR_GUI-MAIN-TITLE: '§2§lМенеджер цветов'
 
-PROFILE_GUI-MAIN-TITLE: '§2§lПрофиль игрока %s'
+PROFILE_GUI-MAIN-TITLE: '§2§lПрофиль игрока §7§l%s'
 ########DONATE########
 DONATE-GUI-DONATE-DESCRIPTION-ALREADY:
 - ''
@@ -554,6 +555,7 @@ PROFILE_GUI-MAIN_INFO_LORE:
 - ' §7Ник: §a%s'
 - ' §7Возраст: §a%s лет'
 - ' §7Город: §a%s'
+- ' §7Привилегия: %s'
 - ''
 - ' §7Статус: §a%s'
 - ' §7Наиграно: §a%s ч.'
@@ -571,10 +573,10 @@ PROFILE_GUI-SOCIAL_INFO_LORE:
 PROFILE_GUI-OTHER_INFO_NAME: '§a§l» §eПрочая информация'
 PROFILE_GUI-OTHER_INFO_LORE:
 - ''
-- ' §7%s'
-- '%s'
-- '%s'
-- '%s'
+- '§7%s'
+- '§7%s'
+- '§7%s'
+- '§7%s'
 - ' %s'
 - ' §c'
 PROFILE_GUI-OTHER_INFO: '§8§oЦветовые коды поддерживаются'
