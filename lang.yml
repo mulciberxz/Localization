@@ -295,7 +295,7 @@ TAG_GUI-CATEGORYLIST-TITLE: '§2§lКатегории'
 
 COLOR_GUI-MAIN-TITLE: '§2§lМенеджер цветов'
 
-PROFILES_GUI-MAIN-TITLE: '§2§lПрофиль игрока §7§l%s'
+PROFILES_GUI-MAIN-TITLE: '§2§lПрофиль игрока'
 ########DONATE########
 DONATE-GUI-DONATE-DESCRIPTION-ALREADY:
 - ''
