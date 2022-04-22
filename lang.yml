@@ -214,14 +214,13 @@ PROFILE_SEND_HELPLIST:
 - ''
 - '§c/profile get §7(Игрок) §f- §aОткрыть §7профиль игрока.'
 - ''
-- '§c/profile age §7"Возраст" §f- §aИзменить §7возраст.'
-- '§c/profile vk §7"Текст" §f- §aИзменить §7ссылку на страницу ВКонтакте.'
-- '§c/profile discord §7"Текст" §f- §aИзменить §7Дискорд.'
-- '§c/profile telegram §7"Текст" §f- §aИзменить §7Дискорд.'
-- '§c/profile city §7"Текст" §f- §aИзменить §7город.'
+- '§c/profile age §7(Число) §f- §aИзменить §7возраст.'
+- '§c/profile vk §7(Текст) §f- §aИзменить §7ссылку на страницу ВКонтакте.'
+- '§c/profile discord §7(Текст) §f- §aИзменить §7Дискорд.'
+- '§c/profile telegram §7(Текст) §f- §aИзменить §7Дискорд.'
+- '§c/profile city §7(Текст) §f- §aИзменить §7город.'
 - ''
-- '§c/profile other §7[1-4] "Текст" §f- §aИзменить §7доп. описание.'
-- '§8"" - Обязательны.'
+- '§c/profile other §7(1-4) (Текст) §f- §aИзменить §7доп. описание.'
 - '§c'
 
 PROFILE_GET_USAGE:
@@ -545,19 +544,13 @@ NAMECOLOR_MENU-ITEM_LORE:
 - '§c'
 
 ########PROFILE_GUI########
-PROFILE_STATUS_ONLINE: '§aВ сети'
-PROFILE_STATUS_OFFLINE: '§cОффлайн §8(%s)'
-
-
 PROFILE_GUI-MAIN_INFO_NAME: '§a§l» §eОсновная информация'
 PROFILE_GUI-MAIN_INFO_LORE:
 - ''
 - ' §7Ник: §a%s'
 - ' §7Возраст: §a%s лет'
 - ' §7Город: §a%s'
-- ' §7Привилегия: %s'
 - ''
-- ' §7Статус: §a%s'
 - ' §7Наиграно: §a%s ч.'
 - ' §7Первый вход: §a%s'
 - ' §c'
